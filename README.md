@@ -1,2 +1,5 @@
 # hello-world
-Learning to use github
+
+Hi I'm Emily
+I'm using github today
+And writing haiku
